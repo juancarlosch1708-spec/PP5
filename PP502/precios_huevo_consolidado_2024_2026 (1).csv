@@ -1,0 +1,226 @@
+﻿Fecha,Producto,Tipo de Venta,Precio Frecuente,Precio Minimo,Precio Maximo,Estado,Central de Abasto
+03/01/2024,Huevo blanco,Mayoreo,31.0,,,JAL,Mercado de Abasto de Guadalajara
+03/01/2024,Huevo blanco,Medio Mayoreo,31.5,,,JAL,Mercado de Abasto de Guadalajara
+03/01/2024,Huevo blanco,Menudeo,32.0,,,JAL,Mercado de Abasto de Guadalajara
+10/01/2024,Huevo blanco,Mayoreo,30.0,,,JAL,Mercado de Abasto de Guadalajara
+17/01/2024,Huevo blanco,Mayoreo,32.0,,,JAL,Mercado de Abasto de Guadalajara
+24/01/2024,Huevo blanco,Mayoreo,38.0,,,JAL,Mercado de Abasto de Guadalajara
+31/01/2024,Huevo blanco,Mayoreo,42.0,,,JAL,Mercado de Abasto de Guadalajara
+03/01/2024,Huevo blanco,Mayoreo,34.0,32.0,35.0,PUE,Central de Abasto de Puebla
+10/01/2024,Huevo blanco,Mayoreo,33.0,31.0,35.0,PUE,Central de Abasto de Puebla
+17/01/2024,Huevo blanco,Mayoreo,35.0,33.0,37.0,PUE,Central de Abasto de Puebla
+24/01/2024,Huevo blanco,Mayoreo,40.0,38.0,42.0,PUE,Central de Abasto de Puebla
+03/01/2024,Huevo blanco,Mayoreo,31.0,,,SLP,Centro de Abasto de San Luis Potosí
+10/01/2024,Huevo blanco,Mayoreo,32.0,,,SLP,Centro de Abasto de San Luis Potosí
+17/01/2024,Huevo blanco,Mayoreo,34.0,,,SLP,Centro de Abasto de San Luis Potosí
+24/01/2024,Huevo blanco,Mayoreo,39.0,,,SLP,Centro de Abasto de San Luis Potosí
+31/01/2024,Huevo blanco,Mayoreo,43.0,,,SLP,Centro de Abasto de San Luis Potosí
+03/01/2024,Huevo blanco,Mayoreo,44.0,44.0,44.42,SON,Central de Abasto de Cd. Obregón
+03/01/2024,Huevo blanco,Mayoreo,45.55,45.55,47.0,SON,Mercado de Abasto Francisco I. Madero de Hermosillo
+03/01/2024,Huevo blanco,Mayoreo,35.0,,,YUC,Central de Abasto de Mérida
+10/01/2024,Huevo blanco,Mayoreo,34.0,,,YUC,Central de Abasto de Mérida
+17/01/2024,Huevo blanco,Mayoreo,35.0,,,YUC,Central de Abasto de Mérida
+24/01/2024,Huevo blanco,Mayoreo,40.0,,,YUC,Central de Abasto de Mérida
+31/01/2024,Huevo blanco,Mayoreo,44.0,,,YUC,Central de Abasto de Mérida
+04/12/2024,Huevo blanco,Mayoreo,30.0,,,JAL,Mercado de Abasto de Guadalajara
+11/12/2024,Huevo blanco,Mayoreo,28.5,,,JAL,Mercado de Abasto de Guadalajara
+18/12/2024,Huevo blanco,Mayoreo,29.0,,,JAL,Mercado de Abasto de Guadalajara
+25/12/2024,Huevo blanco,Mayoreo,31.0,,,JAL,Mercado de Abasto de Guadalajara
+04/12/2024,Huevo blanco,Mayoreo,32.5,31.0,34.0,PUE,Central de Abasto de Puebla
+11/12/2024,Huevo blanco,Mayoreo,31.0,29.0,33.0,PUE,Central de Abasto de Puebla
+18/12/2024,Huevo blanco,Mayoreo,33.0,31.0,35.0,PUE,Central de Abasto de Puebla
+25/12/2024,Huevo blanco,Mayoreo,33.0,31.0,35.0,PUE,Central de Abasto de Puebla
+04/12/2024,Huevo blanco,Mayoreo,30.0,,,SLP,Centro de Abasto de San Luis Potosí
+11/12/2024,Huevo blanco,Mayoreo,28.5,,,SLP,Centro de Abasto de San Luis Potosí
+18/12/2024,Huevo blanco,Mayoreo,29.5,,,SLP,Centro de Abasto de San Luis Potosí
+25/12/2024,Huevo blanco,Mayoreo,30.0,,,SLP,Centro de Abasto de San Luis Potosí
+04/12/2024,Huevo blanco,Mayoreo,42.66,40.0,42.66,SON,Central de Abasto de Cd. Obregón
+04/12/2024,Huevo blanco,Mayoreo,39.77,39.77,41.5,SON,Mercado de Abasto Francisco I. Madero de Hermosillo
+04/12/2024,Huevo blanco,Mayoreo,34.0,,,YUC,Central de Abasto de Mérida
+11/12/2024,Huevo blanco,Mayoreo,33.0,,,YUC,Central de Abasto de Mérida
+18/12/2024,Huevo blanco,Mayoreo,32.0,,,YUC,Central de Abasto de Mérida
+25/12/2024,Huevo blanco,Mayoreo,32.0,,,YUC,Central de Abasto de Mérida
+03/12/2025,Huevo blanco,Mayoreo,29.0,,,JAL,Mercado de Abasto de Guadalajara
+03/12/2025,Huevo blanco,Medio Mayoreo,29.5,,,JAL,Mercado de Abasto de Guadalajara
+03/12/2025,Huevo blanco,Menudeo,30.0,,,JAL,Mercado de Abasto de Guadalajara
+03/12/2025,Huevo clasificado blanco,Caja 30 Docenas,29.0,,,JAL,Mercado de Abasto de Guadalajara
+03/12/2025,Huevo clasificado blanco,Empaque Docenero,30.0,,,JAL,Mercado de Abasto de Guadalajara
+10/12/2025,Huevo blanco,Mayoreo,28.0,,,JAL,Mercado de Abasto de Guadalajara
+10/12/2025,Huevo blanco,Medio Mayoreo,28.5,,,JAL,Mercado de Abasto de Guadalajara
+10/12/2025,Huevo blanco,Menudeo,29.0,,,JAL,Mercado de Abasto de Guadalajara
+10/12/2025,Huevo clasificado blanco,Caja 30 Docenas,27.0,,,JAL,Mercado de Abasto de Guadalajara
+10/12/2025,Huevo clasificado blanco,Empaque Docenero,28.0,,,JAL,Mercado de Abasto de Guadalajara
+17/12/2025,Huevo blanco,Mayoreo,27.5,,,JAL,Mercado de Abasto de Guadalajara
+17/12/2025,Huevo blanco,Medio Mayoreo,28.0,,,JAL,Mercado de Abasto de Guadalajara
+17/12/2025,Huevo blanco,Menudeo,28.5,,,JAL,Mercado de Abasto de Guadalajara
+17/12/2025,Huevo clasificado blanco,Caja 30 Docenas,26.0,,,JAL,Mercado de Abasto de Guadalajara
+17/12/2025,Huevo clasificado blanco,Empaque Docenero,27.0,,,JAL,Mercado de Abasto de Guadalajara
+24/12/2025,Huevo blanco,Mayoreo,26.0,,,JAL,Mercado de Abasto de Guadalajara
+24/12/2025,Huevo blanco,Medio Mayoreo,26.5,,,JAL,Mercado de Abasto de Guadalajara
+24/12/2025,Huevo blanco,Menudeo,27.0,,,JAL,Mercado de Abasto de Guadalajara
+24/12/2025,Huevo clasificado blanco,Caja 30 Docenas,25.0,,,JAL,Mercado de Abasto de Guadalajara
+24/12/2025,Huevo clasificado blanco,Empaque Docenero,26.0,,,JAL,Mercado de Abasto de Guadalajara
+31/12/2025,Huevo blanco,Mayoreo,25.0,,,JAL,Mercado de Abasto de Guadalajara
+31/12/2025,Huevo blanco,Medio Mayoreo,25.5,,,JAL,Mercado de Abasto de Guadalajara
+31/12/2025,Huevo blanco,Menudeo,26.0,,,JAL,Mercado de Abasto de Guadalajara
+31/12/2025,Huevo clasificado blanco,Caja 30 Docenas,25.0,,,JAL,Mercado de Abasto de Guadalajara
+31/12/2025,Huevo clasificado blanco,Empaque Docenero,26.0,,,JAL,Mercado de Abasto de Guadalajara
+08/01/2025,Huevo blanco,Mayoreo,31.5,,,JAL,Mercado de Abasto de Guadalajara
+08/01/2025,Huevo blanco,Medio Mayoreo,32.0,,,JAL,Mercado de Abasto de Guadalajara
+08/01/2025,Huevo blanco,Menudeo,32.5,,,JAL,Mercado de Abasto de Guadalajara
+08/01/2025,Huevo clasificado blanco,Caja 30 Docenas,31.0,,,JAL,Mercado de Abasto de Guadalajara
+08/01/2025,Huevo clasificado blanco,Empaque Docenero,32.0,,,JAL,Mercado de Abasto de Guadalajara
+15/01/2025,Huevo blanco,Mayoreo,30.0,,,JAL,Mercado de Abasto de Guadalajara
+15/01/2025,Huevo blanco,Medio Mayoreo,30.5,,,JAL,Mercado de Abasto de Guadalajara
+15/01/2025,Huevo blanco,Menudeo,31.0,,,JAL,Mercado de Abasto de Guadalajara
+15/01/2025,Huevo clasificado blanco,Caja 30 Docenas,29.0,,,JAL,Mercado de Abasto de Guadalajara
+15/01/2025,Huevo clasificado blanco,Empaque Docenero,30.0,,,JAL,Mercado de Abasto de Guadalajara
+22/01/2025,Huevo blanco,Mayoreo,31.5,,,JAL,Mercado de Abasto de Guadalajara
+22/01/2025,Huevo blanco,Medio Mayoreo,32.0,,,JAL,Mercado de Abasto de Guadalajara
+22/01/2025,Huevo blanco,Menudeo,32.5,,,JAL,Mercado de Abasto de Guadalajara
+22/01/2025,Huevo clasificado blanco,Caja 30 Docenas,30.0,,,JAL,Mercado de Abasto de Guadalajara
+22/01/2025,Huevo clasificado blanco,Empaque Docenero,31.0,,,JAL,Mercado de Abasto de Guadalajara
+29/01/2025,Huevo blanco,Mayoreo,39.5,,,JAL,Mercado de Abasto de Guadalajara
+29/01/2025,Huevo blanco,Medio Mayoreo,40.0,,,JAL,Mercado de Abasto de Guadalajara
+29/01/2025,Huevo blanco,Menudeo,40.5,,,JAL,Mercado de Abasto de Guadalajara
+29/01/2025,Huevo clasificado blanco,Caja 30 Docenas,38.0,,,JAL,Mercado de Abasto de Guadalajara
+29/01/2025,Huevo clasificado blanco,Empaque Docenero,39.0,,,JAL,Mercado de Abasto de Guadalajara
+03/12/2025,Huevo blanco,Mayoreo,32.0,31.0,34.0,PUE,Central de Abasto de Puebla
+03/12/2025,Huevo rojo,Mayoreo,50.0,49.0,52.0,PUE,Central de Abasto de Puebla
+10/12/2025,Huevo blanco,Mayoreo,32.0,28.0,34.0,PUE,Central de Abasto de Puebla
+10/12/2025,Huevo rojo,Mayoreo,45.0,40.0,48.0,PUE,Central de Abasto de Puebla
+17/12/2025,Huevo blanco,Mayoreo,31.0,30.0,34.0,PUE,Central de Abasto de Puebla
+17/12/2025,Huevo rojo,Mayoreo,42.0,39.0,45.0,PUE,Central de Abasto de Puebla
+24/12/2025,Huevo blanco,Mayoreo,32.0,30.0,34.0,PUE,Central de Abasto de Puebla
+24/12/2025,Huevo rojo,Mayoreo,44.0,40.0,49.0,PUE,Central de Abasto de Puebla
+31/12/2025,Huevo blanco,Mayoreo,30.0,29.0,31.0,PUE,Central de Abasto de Puebla
+31/12/2025,Huevo rojo,Mayoreo,42.0,40.0,44.0,PUE,Central de Abasto de Puebla
+08/01/2025,Huevo blanco,Mayoreo,33.5,32.5,34.5,PUE,Central de Abasto de Puebla
+15/01/2025,Huevo blanco,Mayoreo,30.0,29.0,33.0,PUE,Central de Abasto de Puebla
+15/01/2025,Huevo rojo,Mayoreo,42.0,42.0,45.0,PUE,Central de Abasto de Puebla
+22/01/2025,Huevo blanco,Mayoreo,33.0,32.0,36.0,PUE,Central de Abasto de Puebla
+29/01/2025,Huevo blanco,Mayoreo,41.0,38.0,43.0,PUE,Central de Abasto de Puebla
+29/01/2025,Huevo rojo,Mayoreo,50.0,49.0,52.0,PUE,Central de Abasto de Puebla
+03/12/2025,Huevo blanco,Mayoreo,30.0,,,SLP,Centro de Abasto de San Luis Potosí
+03/12/2025,Huevo blanco,Menudeo,31.0,,,SLP,Centro de Abasto de San Luis Potosí
+10/12/2025,Huevo blanco,Mayoreo,29.0,,,SLP,Centro de Abasto de San Luis Potosí
+10/12/2025,Huevo blanco,Menudeo,30.0,,,SLP,Centro de Abasto de San Luis Potosí
+17/12/2025,Huevo blanco,Mayoreo,30.0,,,SLP,Centro de Abasto de San Luis Potosí
+17/12/2025,Huevo blanco,Menudeo,31.0,,,SLP,Centro de Abasto de San Luis Potosí
+24/12/2025,Huevo blanco,Mayoreo,25.0,,,SLP,Centro de Abasto de San Luis Potosí
+24/12/2025,Huevo blanco,Menudeo,26.0,,,SLP,Centro de Abasto de San Luis Potosí
+31/12/2025,Huevo blanco,Mayoreo,25.0,,,SLP,Centro de Abasto de San Luis Potosí
+31/12/2025,Huevo blanco,Menudeo,26.0,,,SLP,Centro de Abasto de San Luis Potosí
+08/01/2025,Huevo blanco,Mayoreo,30.0,,,SLP,Centro de Abasto de San Luis Potosí
+08/01/2025,Huevo blanco,Menudeo,31.0,,,SLP,Centro de Abasto de San Luis Potosí
+15/01/2025,Huevo blanco,Mayoreo,32.5,,,SLP,Centro de Abasto de San Luis Potosí
+15/01/2025,Huevo blanco,Menudeo,33.5,,,SLP,Centro de Abasto de San Luis Potosí
+22/01/2025,Huevo blanco,Mayoreo,34.5,,,SLP,Centro de Abasto de San Luis Potosí
+22/01/2025,Huevo blanco,Menudeo,35.5,,,SLP,Centro de Abasto de San Luis Potosí
+29/01/2025,Huevo blanco,Mayoreo,39.0,,,SLP,Centro de Abasto de San Luis Potosí
+29/01/2025,Huevo blanco,Menudeo,40.0,,,SLP,Centro de Abasto de San Luis Potosí
+03/12/2025,Huevo blanco,Mayoreo,42.66,40.0,42.66,SON,Central de Abasto de Cd. Obregón
+10/12/2025,Huevo blanco,Mayoreo,42.66,40.0,42.66,SON,Central de Abasto de Cd. Obregón
+17/12/2025,Huevo blanco,Mayoreo,42.66,40.0,42.66,SON,Central de Abasto de Cd. Obregón
+24/12/2025,Huevo blanco,Mayoreo,42.66,40.0,42.66,SON,Central de Abasto de Cd. Obregón
+08/01/2025,Huevo blanco,Mayoreo,44.0,44.0,44.42,SON,Central de Abasto de Cd. Obregón
+15/01/2025,Huevo blanco,Mayoreo,44.0,44.0,44.42,SON,Central de Abasto de Cd. Obregón
+22/01/2025,Huevo blanco,Mayoreo,44.0,44.0,44.42,SON,Central de Abasto de Cd. Obregón
+29/01/2025,Huevo blanco,Mayoreo,44.0,44.0,44.42,SON,Central de Abasto de Cd. Obregón
+03/12/2025,Huevo blanco,Mayoreo,39.77,39.77,41.5,SON,Mercado de Abasto Francisco I. Madero de Hermosillo
+03/12/2025,Huevo blanco,Medio Mayoreo,41.77,41.77,42.5,SON,Mercado de Abasto Francisco I. Madero de Hermosillo
+10/12/2025,Huevo blanco,Mayoreo,39.77,39.77,41.5,SON,Mercado de Abasto Francisco I. Madero de Hermosillo
+10/12/2025,Huevo blanco,Medio Mayoreo,41.77,41.77,42.5,SON,Mercado de Abasto Francisco I. Madero de Hermosillo
+17/12/2025,Huevo blanco,Mayoreo,39.77,39.77,41.5,SON,Mercado de Abasto Francisco I. Madero de Hermosillo
+17/12/2025,Huevo blanco,Medio Mayoreo,41.77,41.77,42.5,SON,Mercado de Abasto Francisco I. Madero de Hermosillo
+24/12/2025,Huevo blanco,Mayoreo,36.88,36.88,38.0,SON,Mercado de Abasto Francisco I. Madero de Hermosillo
+24/12/2025,Huevo blanco,Medio Mayoreo,41.77,38.5,41.77,SON,Mercado de Abasto Francisco I. Madero de Hermosillo
+31/12/2025,Huevo blanco,Mayoreo,33.33,33.33,36.5,SON,Mercado de Abasto Francisco I. Madero de Hermosillo
+31/12/2025,Huevo blanco,Medio Mayoreo,41.77,37.0,41.77,SON,Mercado de Abasto Francisco I. Madero de Hermosillo
+08/01/2025,Huevo blanco,Mayoreo,45.55,45.55,47.0,SON,Mercado de Abasto Francisco I. Madero de Hermosillo
+08/01/2025,Huevo blanco,Medio Mayoreo,48.88,47.5,48.88,SON,Mercado de Abasto Francisco I. Madero de Hermosillo
+15/01/2025,Huevo blanco,Mayoreo,45.55,44.55,47.0,SON,Mercado de Abasto Francisco I. Madero de Hermosillo
+15/01/2025,Huevo blanco,Medio Mayoreo,48.88,47.5,48.88,SON,Mercado de Abasto Francisco I. Madero de Hermosillo
+22/01/2025,Huevo blanco,Mayoreo,45.55,45.55,46.0,SON,Mercado de Abasto Francisco I. Madero de Hermosillo
+22/01/2025,Huevo blanco,Medio Mayoreo,46.22,46.22,47.0,SON,Mercado de Abasto Francisco I. Madero de Hermosillo
+29/01/2025,Huevo blanco,Mayoreo,45.55,45.55,46.0,SON,Mercado de Abasto Francisco I. Madero de Hermosillo
+29/01/2025,Huevo blanco,Medio Mayoreo,46.22,46.22,47.0,SON,Mercado de Abasto Francisco I. Madero de Hermosillo
+03/12/2025,Huevo blanco,Mayoreo,33.0,,,YUC,Central de Abasto de Mérida
+03/12/2025,Huevo blanco,Medio Mayoreo,34.0,,,YUC,Central de Abasto de Mérida
+03/12/2025,Huevo blanco,Menudeo,45.0,36.0,48.0,YUC,Central de Abasto de Mérida
+10/12/2025,Huevo blanco,Mayoreo,32.0,,,YUC,Central de Abasto de Mérida
+10/12/2025,Huevo blanco,Medio Mayoreo,33.0,,,YUC,Central de Abasto de Mérida
+10/12/2025,Huevo blanco,Menudeo,45.0,36.0,45.0,YUC,Central de Abasto de Mérida
+17/12/2025,Huevo blanco,Mayoreo,30.0,,,YUC,Central de Abasto de Mérida
+17/12/2025,Huevo blanco,Medio Mayoreo,32.0,,,YUC,Central de Abasto de Mérida
+17/12/2025,Huevo blanco,Menudeo,45.0,36.0,45.0,YUC,Central de Abasto de Mérida
+24/12/2025,Huevo blanco,Mayoreo,30.0,,,YUC,Central de Abasto de Mérida
+24/12/2025,Huevo blanco,Medio Mayoreo,32.0,,,YUC,Central de Abasto de Mérida
+24/12/2025,Huevo blanco,Menudeo,45.0,36.0,45.0,YUC,Central de Abasto de Mérida
+31/12/2025,Huevo blanco,Mayoreo,30.0,,,YUC,Central de Abasto de Mérida
+31/12/2025,Huevo blanco,Medio Mayoreo,32.0,,,YUC,Central de Abasto de Mérida
+31/12/2025,Huevo blanco,Menudeo,45.0,36.0,45.0,YUC,Central de Abasto de Mérida
+08/01/2025,Huevo blanco,Mayoreo,32.0,,,YUC,Central de Abasto de Mérida
+08/01/2025,Huevo blanco,Medio Mayoreo,34.0,,,YUC,Central de Abasto de Mérida
+08/01/2025,Huevo blanco,Menudeo,45.0,42.0,47.0,YUC,Central de Abasto de Mérida
+15/01/2025,Huevo blanco,Mayoreo,32.0,,,YUC,Central de Abasto de Mérida
+15/01/2025,Huevo blanco,Medio Mayoreo,34.0,,,YUC,Central de Abasto de Mérida
+15/01/2025,Huevo blanco,Menudeo,44.0,42.0,47.0,YUC,Central de Abasto de Mérida
+22/01/2025,Huevo blanco,Mayoreo,32.0,,,YUC,Central de Abasto de Mérida
+22/01/2025,Huevo blanco,Medio Mayoreo,34.0,,,YUC,Central de Abasto de Mérida
+22/01/2025,Huevo blanco,Menudeo,45.0,42.0,47.0,YUC,Central de Abasto de Mérida
+29/01/2025,Huevo blanco,Mayoreo,32.0,,,YUC,Central de Abasto de Mérida
+29/01/2025,Huevo blanco,Medio Mayoreo,34.0,,,YUC,Central de Abasto de Mérida
+29/01/2025,Huevo blanco,Menudeo,45.0,42.0,47.0,YUC,Central de Abasto de Mérida
+07/01/2026,Huevo clasificado blanco,Caja 30 Docenas,23.0,,,JAL,Mercado de Abasto de Guadalajara
+07/01/2026,Huevo clasificado blanco,Mayoreo,24.0,,,JAL,Mercado de Abasto de Guadalajara
+14/01/2026,Huevo blanco,Mayoreo,22.0,,,JAL,Mercado de Abasto de Guadalajara
+14/01/2026,Huevo blanco,Medio Mayoreo,22.5,,,JAL,Mercado de Abasto de Guadalajara
+14/01/2026,Huevo blanco,Menudeo,23.0,,,JAL,Mercado de Abasto de Guadalajara
+14/01/2026,Huevo clasificado blanco,Caja 30 Docenas,22.0,,,JAL,Mercado de Abasto de Guadalajara
+14/01/2026,Huevo clasificado blanco,Empaque Docenero,23.0,,,JAL,Mercado de Abasto de Guadalajara
+21/01/2026,Huevo blanco,Mayoreo,24.0,,,JAL,Mercado de Abasto de Guadalajara
+21/01/2026,Huevo blanco,Medio Mayoreo,24.5,,,JAL,Mercado de Abasto de Guadalajara
+21/01/2026,Huevo blanco,Menudeo,25.0,,,JAL,Mercado de Abasto de Guadalajara
+28/01/2026,Huevo blanco,Mayoreo,26.5,,,JAL,Mercado de Abasto de Guadalajara
+28/01/2026,Huevo blanco,Medio Mayoreo,27.0,,,JAL,Mercado de Abasto de Guadalajara
+28/01/2026,Huevo blanco,Menudeo,27.5,,,JAL,Mercado de Abasto de Guadalajara
+28/01/2026,Huevo clasificado blanco,Caja 30 Docenas,26.0,,,JAL,Mercado de Abasto de Guadalajara
+28/01/2026,Huevo clasificado blanco,Empaque Docenero,27.0,,,JAL,Mercado de Abasto de Guadalajara
+07/01/2026,Huevo blanco,Mayoreo,26.0,25.0,28.0,PUE,Central de Abasto de Puebla
+07/01/2026,Huevo rojo,Mayoreo,36.0,34.0,38.0,PUE,Central de Abasto de Puebla
+14/01/2026,Huevo blanco,Mayoreo,26.0,24.0,29.0,PUE,Central de Abasto de Puebla
+14/01/2026,Huevo rojo,Mayoreo,44.0,42.0,46.0,PUE,Central de Abasto de Puebla
+21/01/2026,Huevo blanco,Mayoreo,28.0,26.0,30.0,PUE,Central de Abasto de Puebla
+21/01/2026,Huevo rojo,Mayoreo,44.0,42.0,45.0,PUE,Central de Abasto de Puebla
+28/01/2026,Huevo blanco,Mayoreo,44.0,42.0,46.0,PUE,Central de Abasto de Puebla
+28/01/2026,Huevo rojo,Mayoreo,29.0,27.0,31.0,PUE,Central de Abasto de Puebla
+07/01/2026,Huevo blanco,Mayoreo,29.0,,,SLP,Centro de Abasto de San Luis Potosí
+07/01/2026,Huevo blanco,Menudeo,30.0,,,SLP,Centro de Abasto de San Luis Potosí
+14/01/2026,Huevo blanco,Mayoreo,21.0,,,SLP,Centro de Abasto de San Luis Potosí
+14/01/2026,Huevo blanco,Menudeo,22.0,,,SLP,Centro de Abasto de San Luis Potosí
+21/01/2026,Huevo blanco,Mayoreo,24.0,,,SLP,Centro de Abasto de San Luis Potosí
+21/01/2026,Huevo blanco,Menudeo,25.0,,,SLP,Centro de Abasto de San Luis Potosí
+28/01/2026,Huevo blanco,Mayoreo,27.0,,,SLP,Centro de Abasto de San Luis Potosí
+28/01/2026,Huevo blanco,Menudeo,28.0,,,SLP,Centro de Abasto de San Luis Potosí
+07/01/2026,Huevo blanco,Mayoreo,42.66,40.0,42.66,SON,Central de Abasto de Cd. Obregón
+14/01/2026,Huevo blanco,Mayoreo,42.66,40.0,42.66,SON,Central de Abasto de Cd. Obregón
+21/01/2026,Huevo blanco,Mayoreo,31.11,29.33,31.11,SON,Central de Abasto de Cd. Obregón
+28/01/2026,Huevo blanco,Mayoreo,31.11,29.33,31.11,SON,Central de Abasto de Cd. Obregón
+07/01/2026,Huevo blanco,Mayoreo,33.33,33.33,35.0,SON,Mercado de Abasto Francisco I. Madero de Hermosillo
+07/01/2026,Huevo blanco,Medio Mayoreo,35.77,35.77,37.0,SON,Mercado de Abasto Francisco I. Madero de Hermosillo
+14/01/2026,Huevo blanco,Mayoreo,27.78,27.78,33.33,SON,Mercado de Abasto Francisco I. Madero de Hermosillo
+14/01/2026,Huevo blanco,Medio Mayoreo,33.33,33.33,35.56,SON,Mercado de Abasto Francisco I. Madero de Hermosillo
+21/01/2026,Huevo blanco,Mayoreo,27.78,27.78,33.33,SON,Mercado de Abasto Francisco I. Madero de Hermosillo
+21/01/2026,Huevo blanco,Medio Mayoreo,33.33,33.33,35.56,SON,Mercado de Abasto Francisco I. Madero de Hermosillo
+28/01/2026,Huevo blanco,Mayoreo,32.66,31.55,32.66,SON,Mercado de Abasto Francisco I. Madero de Hermosillo
+28/01/2026,Huevo blanco,Medio Mayoreo,34.66,33.0,34.66,SON,Mercado de Abasto Francisco I. Madero de Hermosillo
+14/01/2026,Huevo blanco,Mayoreo,30.0,,,YUC,Central de Abasto de Mérida
+14/01/2026,Huevo blanco,Medio Mayoreo,32.0,,,YUC,Central de Abasto de Mérida
+14/01/2026,Huevo blanco,Menudeo,45.0,36.0,45.0,YUC,Central de Abasto de Mérida
+21/01/2026,Huevo blanco,Mayoreo,28.0,,,YUC,Central de Abasto de Mérida
+21/01/2026,Huevo blanco,Medio Mayoreo,32.0,,,YUC,Central de Abasto de Mérida
+21/01/2026,Huevo blanco,Menudeo,42.0,32.0,45.0,YUC,Central de Abasto de Mérida
+28/01/2026,Huevo blanco,Mayoreo,30.0,,,YUC,Central de Abasto de Mérida
+28/01/2026,Huevo blanco,Medio Mayoreo,32.0,,,YUC,Central de Abasto de Mérida
+28/01/2026,Huevo blanco,Menudeo,45.0,34.0,45.0,YUC,Central de Abasto de Mérida
